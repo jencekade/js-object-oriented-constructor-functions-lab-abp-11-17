@@ -1,5 +1,5 @@
-function Scooter (year, color, model);
+function Scooter (year, color, model){};
 
-function Driver (name, age, experience);
+function Driver (name, age, experience){};
 
-function PickupLocation (address, city);
+function PickupLocation (address, city){};
